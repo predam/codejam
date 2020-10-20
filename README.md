@@ -1,2 +1,3 @@
-### C++ KATA
+### C++ / JAVA competitive programming
+> Codeforce @predamihai
 
