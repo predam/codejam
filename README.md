@@ -1,3 +1,3 @@
 ### C++ / JAVA competitive programming
-> Codeforce @predamihai
+> Codeforces @predamihai
 
